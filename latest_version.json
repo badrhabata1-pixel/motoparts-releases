@@ -1,0 +1,7 @@
+{
+    "version": "1.0.2",
+    "url": "MotoPartsPOS-1.0.2.zip",
+    "sha256": "b4ad63c2ac7794a09caad130cec876d6ef82c7b8d93b8d64083d8f561a2c824b",
+    "notes": "تحديث الميزات الجديدة وتحسين الاستيراد",
+    "min_php": "7.4"
+}
