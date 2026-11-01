@@ -1,7 +1,7 @@
 {
-    "version": "1.0.3",
-    "url": "https://raw.githubusercontent.com/badrhabata1-pixel/motoparts-releases/main/MotoPartsPOS-1.0.3.zip",
-    "sha256": "1e33cf505337d36edf0d16f0ff2c5f3612b035a510a1c2267a9fad07cb938216",
-    "notes": "إصلاح قراءة فواتير PDF وتطبيع الحروف",
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/badrhabata1-pixel/motoparts-releases/main/MotoPartsPOS-1.0.4.zip",
+    "sha256": "adf74ab2de6e3f7547dacb81305242a4b8135b5e496793b8ea5213179c6032b6",
+    "notes": "إضافة فلتر من-إلى للتواريخ وزر حذف الكل بالمخزن",
     "min_php": "7.4"
 }
