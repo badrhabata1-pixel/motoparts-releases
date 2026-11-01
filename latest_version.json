@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2",
-    "url": "MotoPartsPOS-1.0.2.zip",
-    "sha256": "b4ad63c2ac7794a09caad130cec876d6ef82c7b8d93b8d64083d8f561a2c824b",
-    "notes": "تحديث الميزات الجديدة وتحسين الاستيراد",
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/badrhabata1-pixel/motoparts-releases/main/MotoPartsPOS-1.0.3.zip",
+    "sha256": "1e33cf505337d36edf0d16f0ff2c5f3612b035a510a1c2267a9fad07cb938216",
+    "notes": "إصلاح قراءة فواتير PDF وتطبيع الحروف",
     "min_php": "7.4"
 }
