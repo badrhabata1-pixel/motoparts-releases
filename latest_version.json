@@ -1,7 +1,7 @@
 {
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/badrhabata1-pixel/motoparts-releases/main/MotoPartsPOS-1.0.4.zip",
-    "sha256": "adf74ab2de6e3f7547dacb81305242a4b8135b5e496793b8ea5213179c6032b6",
-    "notes": "إضافة فلتر من-إلى للتواريخ وزر حذف الكل بالمخزن",
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/badrhabata1-pixel/motoparts-releases/main/MotoPartsPOS-1.0.5.zip",
+    "sha256": "1b29e8ab6a6b036d855dc9d2586c729ed1232b6535d3124edd21464406fb1c60",
+    "notes": "إضافة مقاس Xprinter السري 38x25",
     "min_php": "7.4"
 }
